@@ -158,7 +158,7 @@ Distributed under the **ISC License**. See `LICENSE` for more information.
 
 ### 🤝 Join the Revolution
 
-_Made by Keshav Chauhan_
+Built by [Keshav Chauhan](https://keshavchauhan.in)
 
 [Report Bug](https://github.com/your-username/kumar-kosmetics/issues) • [Request Feature](https://github.com/your-username/kumar-kosmetics/issues)
 
